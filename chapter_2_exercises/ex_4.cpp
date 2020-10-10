@@ -1,4 +1,4 @@
-// exercise 4
+// chapter 2, exercise 4
 // Write a program, which asks for an age and displays the user's age expressed in months.
 
 #include <iostream>
