@@ -1,4 +1,4 @@
-// exercise 3
+// chapter 2, exercise 3
 // write a program in c++, which uses 3 functions (one of which is main()) and returns the following results:
 // Entliczek pentliczek
 // Czerwony stoliczek
