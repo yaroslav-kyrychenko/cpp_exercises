@@ -1,4 +1,4 @@
-// exercise 7
+// chapter 2, exercise 7
 // Write a program, which asks for a number of hours and minutes.
 // The main() function will pass these numbers to the void function, which will display the time in the appropriate format.
 
