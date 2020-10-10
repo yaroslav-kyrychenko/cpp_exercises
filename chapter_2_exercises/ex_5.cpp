@@ -1,4 +1,4 @@
-// exercise 5
+// chapter 2, exercise 5
 // Write a program, which asks for a temperature expressed in degrees Celsius and 
 // returns a temperature in degrees Fahrenheit.
 
