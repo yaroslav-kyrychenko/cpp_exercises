@@ -1,4 +1,4 @@
-// exercise 2
+// chapter 2, exercise 2
 // write a program in C++, which asks for a distance in nautical miles
 // and returns a distance in meters (1 nautical mile = 1852 m)
 
