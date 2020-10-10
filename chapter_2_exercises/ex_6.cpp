@@ -1,4 +1,4 @@
-// exercise 6
+// chapter 2, exercise 6
 // Write a program, which takes a parameter of distance in light years 
 // and returns distance in astronomical units.
 
