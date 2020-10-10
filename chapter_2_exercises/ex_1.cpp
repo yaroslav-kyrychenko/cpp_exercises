@@ -1,4 +1,4 @@
-// exercise 1 -- write a program, which displays a surname and address of the author 
+// chapter 2, exercise 1 -- write a program, which displays a surname and address of the author 
 // (doesn't have to be a real one)
 
 #include <iostream>
